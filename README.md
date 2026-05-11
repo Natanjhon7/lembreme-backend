@@ -11,7 +11,7 @@ Authorization: Bearer SEU_TOKEN
 Endpoints de Autenticação
 
 Cadastrar
-POST  /auth/register          Exemplo da requisição:json
+POST  /auth/register           Exemplo da requisição:json
 
 {
   "nome": "Teste teste",
